@@ -21,7 +21,8 @@ void setup();
 Character player;
 
 int main() {
-    
+
+
     Character test = Character("Abeeb", 100, 10, 10, 5, 1, 0);
     player = test;
     Character test2 = Character("Riley", 9,9,9,9,9,9);
